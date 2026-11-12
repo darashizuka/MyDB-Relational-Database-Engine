@@ -1,0 +1,444 @@
+1)
+
+|l.l_comment |
+|furiously ir |
+Found 1 records in all.
+
+2)
+
+|l.l_orderkey |
+|420 |
+|547 |
+|5895 |
+|10917 |
+|17701 |
+|22182 |
+|43045 |
+|44741 |
+|56866 |
+|58052 |
+|84003 |
+|89059 |
+|90912 |
+|92198 |
+|94439 |
+|95075 |
+|95845 |
+|99392 |
+|100481 |
+|110279 |
+|110530 |
+|111425 |
+|124290 |
+|128865 |
+|131525 |
+|132993 |
+|140418 |
+|141381 |
+|143524 |
+|147301 |
+|151942 |
+|152967 |
+|157156 |
+|162691 |
+|164965 |
+|179780 |
+|180483 |
+|200388 |
+|201413 |
+|204320 |
+|210112 |
+|210885 |
+|211201 |
+|215395 |
+|219460 |
+|226567 |
+|227842 |
+|228165 |
+|231782 |
+|232705 |
+Found 1057 records in all.
+
+
+3)
+
+[<MyDB_AggAtt0, int>, <MyDB_AggAtt1, double>, <MyDB_CntAtt, int>]
+|agg.sum_0 |agg.avg_1 |
+|292098 |3.620425 |
+Found 1 records in all.
+
+4)
+
+[<MyDB_GroupAtt0, string>, <MyDB_AggAtt0, double>, <MyDB_CntAtt, int>]
+|agg.avg_2 |att.temp3 |
+|150611.604523 |priority: 5-LOW |
+|150129.831018 |priority: 4-NOT SP|
+|150068.606146 |priority: 3-MEDIUM|
+|150724.811169 |priority: 2-HIGH |
+|150454.466436 |priority: 1-URGENT|
+Found 5 records in all.
+
+
+5)
+
+[<MyDB_GroupAtt0, string>, <MyDB_AggAtt0, int>, <MyDB_AggAtt1, double>,
+<MyDB_AggAtt2, double>, <MyDB_AggAtt3, double>, <MyDB_AggAtt4, int>, <MyDB_AggAtt5,
+double>, <MyDB_AggAtt6, double>, <MyDB_AggAtt7, int>, <MyDB_CntAtt, int>]
+|att.temp12 |agg.sum_4 |agg.sum_5 |agg.sum_6
+|agg.sum_7 |agg.avg_8 |agg.avg_9 |agg.avg_10
+|agg.sum_11 |
+|return flag was N |7826475
+|11731187444.120041|11144649274.750301|11590849811.731108|25
+|38203.874855 |0.049994 |307068 |
+Found 1 records in all.
+
+
+6)
+
+[<MyDB_GroupAtt0, string>, <MyDB_AggAtt0, int>, <MyDB_CntAtt, int>]
+|l.l_shipmode |agg.sum_13 |
+|TRUCK |49645 |
+|RAIL |50059 |
+Found 2 records in all.
+
+7)
+
+[<MyDB_GroupAtt0, int>, <MyDB_AggAtt0, double>, <MyDB_CntAtt, int>]
+|ps.ps_partkey |agg.avg_14 |
+|1 |665.290000 |
+|2 |646.880000 |
+|5 |219.830000 |
+|7 |763.980000 |
+|8 |916.910000 |
+|9 |188.020000 |
+|10 |418.635000 |
+|12 |498.395000 |
+|13 |409.506667 |
+|14 |891.445000 |
+|15 |458.670000 |
+|18 |367.633333 |
+|19 |144.800000 |
+|20 |675.540000 |
+|23 |103.130000 |
+|25 |694.350000 |
+|27 |348.610000 |
+|28 |204.860000 |
+|29 |857.885000 |
+|33 |929.050000 |
+|34 |265.310000 |
+|35 |540.180000 |
+|37 |15.720000 |
+|43 |493.190000 |
+|44 |608.080000 |
+|45 |919.630000 |
+|46 |106.800000 |
+|48 |611.160000 |
+|53 |388.080000 |
+|54 |686.510000 |
+|56 |855.390000 |
+|57 |311.370000 |
+|58 |527.380000 |
+|60 |92.640000 |
+|61 |633.740000 |
+|62 |620.080000 |
+|63 |481.265000 |
+|66 |785.750000 |
+|70 |327.883333 |
+|73 |514.810000 |
+|75 |433.590000 |
+|77 |875.830000 |
+|78 |577.230000 |
+|79 |891.180000 |
+|81 |314.980000 |
+|83 |385.120000 |
+|84 |588.785000 |
+|86 |158.010000 |
+|87 |868.600000 |
+|88 |821.430000 |
+Found 119448 records in all.
+
+
+8)
+
+|n.n_name |o.o_orderdate |att.temp15 |
+|JORDAN |1998-07-30 |291.942900 |
+|ROMANIA |1998-03-28 |18835.132800 |
+|KENYA |1998-08-02 |6909.096800 |
+|KENYA |1998-07-20 |28490.313600 |
+|CANADA |1998-05-30 |24792.433200 |
+|ALGERIA |1998-04-18 |7396.856000 |
+|KENYA |1998-07-12 |2937.790600 |
+|CANADA |1998-07-30 |11539.260000 |
+|JAPAN |1998-05-22 |3239.627100 |
+|VIETNAM |1998-05-06 |792.725000 |
+|UNITED KINGDOM |1998-07-01 |27664.275500 |
+|ARGENTINA |1998-07-22 |24458.961600 |
+|CANADA |1998-06-05 |16588.600000 |
+|FRANCE |1998-06-28 |39184.462800 |
+|GERMANY |1998-07-27 |34710.158000 |
+|ETHIOPIA |1998-05-13 |54908.073600 |
+|UNITED STATES |1998-05-16 |632.688600 |
+|GERMANY |1998-03-15 |18214.656000 |
+|INDIA |1998-06-29 |57421.320000 |
+|FRANCE |1998-05-07 |3582.330000 |
+|GERMANY |1998-07-17 |6188.105400 |
+|EGYPT |1998-06-02 |24390.268800 |
+|UNITED STATES |1998-03-22 |9712.101000 |
+|ALGERIA |1998-08-01 |3853.548000 |
+|IRAQ |1998-04-08 |24039.451300 |
+|JAPAN |1998-03-31 |12223.833000 |
+|UNITED STATES |1998-05-11 |33567.310000 |
+|KENYA |1998-04-07 |29376.360400 |
+|EGYPT |1998-03-30 |12472.983000 |
+|PERU |1998-04-14 |13306.849500 |
+|MOROCCO |1998-06-24 |9525.945600 |
+|GERMANY |1998-07-08 |73994.620000 |
+|ALGERIA |1998-05-11 |6774.324000 |
+|ROMANIA |1998-08-01 |15925.412800 |
+|KENYA |1998-07-22 |662.228000 |
+|CHINA |1998-03-31 |44529.576000 |
+|UNITED STATES |1998-06-20 |7182.933000 |
+|EGYPT |1998-06-30 |3544.450000 |
+|JAPAN |1998-03-13 |2188.376000 |
+|SAUDI ARABIA |1998-05-31 |62905.382800 |
+|BRAZIL |1998-07-07 |76510.037600 |
+|ETHIOPIA |1998-05-14 |1089.455200 |
+|CHINA |1998-07-13 |3398.684400 |
+|JAPAN |1998-06-09 |14201.344000 |
+|VIETNAM |1998-06-07 |51330.439000 |
+|ARGENTINA |1998-07-27 |40597.808800 |
+|GERMANY |1998-06-10 |19432.160000 |
+|INDONESIA |1998-05-14 |6286.520000 |
+|BRAZIL |1998-07-13 |18885.710400 |
+|SAUDI ARABIA |1998-07-11 |6626.965000 |
+Found 2347 records in all.
+
+
+9)
+
+[<MyDB_GroupAtt0, string>, <MyDB_AggAtt0, int>, <MyDB_CntAtt, int>]
+|att.temp17 |agg.sum_16 |
+|name: Supplier#000|2250 |
+|name: Supplier#000|1725 |
+|name: Supplier#000|1750 |
+|name: Supplier#000|2375 |
+|name: Supplier#000|2100 |
+|name: Supplier#000|1650 |
+|name: Supplier#000|1750 |
+|name: Supplier#000|1525 |
+|name: Supplier#000|1625 |
+|name: Supplier#000|1100 |
+|name: Supplier#000|1800 |
+|name: Supplier#000|2100 |
+|name: Supplier#000|2175 |
+|name: Supplier#000|2075 |
+|name: Supplier#000|1400 |
+|name: Supplier#000|1875 |
+|name: Supplier#000|2450 |
+|name: Supplier#000|1625 |
+|name: Supplier#000|1350 |
+|name: Supplier#000|1550 |
+|name: Supplier#000|1950 |
+|name: Supplier#000|2125 |
+|name: Supplier#000|1325 |
+|name: Supplier#000|1450 |
+|name: Supplier#000|1950 |
+|name: Supplier#000|1900 |
+|name: Supplier#000|1650 |
+|name: Supplier#000|1450 |
+|name: Supplier#000|2075 |
+|name: Supplier#000|1400 |
+|name: Supplier#000|2050 |
+|name: Supplier#000|1625 |
+|name: Supplier#000|1525 |
+|name: Supplier#000|1675 |
+|name: Supplier#000|2525 |
+|name: Supplier#000|2175 |
+|name: Supplier#000|1750 |
+|name: Supplier#000|2125 |
+|name: Supplier#000|1825 |
+|name: Supplier#000|1900 |
+|name: Supplier#000|2450 |
+|name: Supplier#000|1475 |
+|name: Supplier#000|1625 |
+|name: Supplier#000|1525 |
+|name: Supplier#000|1425 |
+|name: Supplier#000|1675 |
+|name: Supplier#000|1800 |
+|name: Supplier#000|1925 |
+|name: Supplier#000|1650 |
+|name: Supplier#000|1975 |
+Found 10000 records in all.
+
+10)
+
+[<MyDB_GroupAtt0, string>, <MyDB_CntAtt, int>]
+|att.temp18        |
+|date was 1995-01-0|
+|date was 1995-02-0|
+|date was 1995-01-0|
+|date was 1995-02-2|
+|date was 1995-03-1|
+|date was 1995-02-0|
+|date was 1995-02-0|
+|date was 1995-02-0|
+|date was 1995-03-0|
+|date was 1995-03-1|
+|date was 1995-03-2|
+|date was 1995-03-2|
+|date was 1995-04-1|
+|date was 1995-02-1|
+|date was 1995-01-1|
+|date was 1995-02-2|
+|date was 1995-01-0|
+|date was 1995-01-2|
+|date was 1995-01-3|
+|date was 1995-01-2|
+|date was 1995-01-0|
+|date was 1995-01-1|
+|date was 1995-03-1|
+|date was 1995-03-1|
+|date was 1995-02-1|
+|date was 1995-02-1|
+|date was 1995-01-3|
+|date was 1995-03-1|
+|date was 1995-03-2|
+|date was 1995-04-1|
+|date was 1995-02-1|
+|date was 1995-02-1|
+|date was 1995-01-1|
+|date was 1995-02-0|
+|date was 1995-04-1|
+|date was 1995-04-2|
+|date was 1995-01-1|
+|date was 1995-01-1|
+|date was 1995-01-0|
+|date was 1995-01-2|
+|date was 1995-02-2|
+|date was 1995-02-2|
+|date was 1995-01-2|
+|date was 1995-02-0|
+|date was 1995-03-2|
+|date was 1995-02-2|
+|date was 1995-01-2|
+|date was 1995-01-2|
+|date was 1995-04-0|
+|date was 1995-01-0|
+Found 161 records in all.
+
+11)
+
+[<MyDB_GroupAtt0, string>, <MyDB_GroupAtt1, string>, <MyDB_AggAtt0, int>, <MyDB_CntAtt, int>]
+|c.c_name          |n.n_name          |agg.sum_19        |
+|Customer#000000004|EGYPT             |2                 |
+|Customer#000000007|CHINA             |6                 |
+|Customer#000000010|ETHIOPIA          |2                 |
+|Customer#000000011|UNITED KINGDOM    |4                 |
+|Customer#000000013|CANADA            |5                 |
+|Customer#000000016|IRAN              |3                 |
+|Customer#000000019|CHINA             |3                 |
+|Customer#000000022|CANADA            |5                 |
+|Customer#000000023|CANADA            |2                 |
+|Customer#000000025|JAPAN             |6                 |
+|Customer#000000026|RUSSIA            |4                 |
+|Customer#000000028|INDIA             |5                 |
+|Customer#000000029|ALGERIA           |4                 |
+|Customer#000000031|UNITED KINGDOM    |1                 |
+|Customer#000000034|MOROCCO           |8                 |
+|Customer#000000037|INDIA             |1                 |
+|Customer#000000040|CANADA            |3                 |
+|Customer#000000041|IRAN              |1                 |
+|Customer#000000043|ROMANIA           |5                 |
+|Customer#000000044|MOZAMBIQUE        |7                 |
+|Customer#000000046|FRANCE            |1                 |
+|Customer#000000047|BRAZIL            |1                 |
+|Customer#000000049|IRAN              |2                 |
+|Customer#000000055|IRAN              |3                 |
+|Customer#000000061|PERU              |1                 |
+|Customer#000000062|GERMANY           |3                 |
+|Customer#000000064|CANADA            |8                 |
+|Customer#000000065|UNITED KINGDOM    |1                 |
+|Customer#000000067|INDONESIA         |2                 |
+|Customer#000000068|JAPAN             |1                 |
+|Customer#000000070|RUSSIA            |7                 |
+|Customer#000000073|ALGERIA           |6                 |
+|Customer#000000074|EGYPT             |3                 |
+|Customer#000000076|ALGERIA           |6                 |
+|Customer#000000079|MOROCCO           |1                 |
+|Customer#000000080|ALGERIA           |2                 |
+|Customer#000000082|CHINA             |2                 |
+|Customer#000000085|ETHIOPIA          |1                 |
+|Customer#000000086|ALGERIA           |4                 |
+|Customer#000000088|MOZAMBIQUE        |1                 |
+|Customer#000000091|INDIA             |3                 |
+|Customer#000000092|BRAZIL            |7                 |
+|Customer#000000094|INDONESIA         |6                 |
+|Customer#000000097|PERU              |2                 |
+|Customer#000000100|SAUDI ARABIA      |10                |
+|Customer#000000103|INDONESIA         |5                 |
+|Customer#000000106|ARGENTINA         |4                 |
+|Customer#000000107|MOROCCO           |1                 |
+|Customer#000000109|MOZAMBIQUE        |2                 |
+|Customer#000000112|ROMANIA           |2                 |
+Found 72172 records in all.
+
+
+12)
+
+[<MyDB_GroupAtt0, string>, <MyDB_GroupAtt1, string>, <MyDB_AggAtt0, int>, <MyDB_CntAtt, int>]
+|c2.c_name         |p.p_name          |agg.sum_20        |
+|Customer#000000091|thistle brown deep|1                 |
+|Customer#000000295|burlywood aquamari|1                 |
+|Customer#000000434|orange cream sprin|1                 |
+|Customer#000000442|cream tan peru alm|1                 |
+|Customer#000000472|moccasin rose sadd|1                 |
+|Customer#000000586|cyan sky papaya mo|1                 |
+|Customer#000000638|khaki orange seash|1                 |
+|Customer#000000797|moccasin rose sadd|1                 |
+|Customer#000000851|salmon olive lace |1                 |
+|Customer#000000871|moccasin rose sadd|1                 |
+|Customer#000000913|deep antique burni|1                 |
+|Customer#000001076|metallic blanched |1                 |
+|Customer#000001216|black peach light |1                 |
+|Customer#000001247|khaki orange seash|1                 |
+|Customer#000001264|goldenrod saddle c|1                 |
+|Customer#000001265|forest lawn golden|1                 |
+|Customer#000001291|peach cornsilk blu|1                 |
+|Customer#000001352|cyan sky papaya mo|1                 |
+|Customer#000001420|smoke aquamarine t|1                 |
+|Customer#000001453|chiffon chartreuse|1                 |
+|Customer#000001468|frosted sandy grey|1                 |
+|Customer#000001562|aquamarine goldenr|1                 |
+|Customer#000001820|goldenrod saddle c|1                 |
+|Customer#000001852|blanched rosy fire|1                 |
+|Customer#000001999|burlywood peru hot|1                 |
+|Customer#000002086|red antique navajo|1                 |
+|Customer#000002144|yellow ivory blanc|1                 |
+|Customer#000002279|drab frosted linen|1                 |
+|Customer#000002308|rose papaya smoke |1                 |
+|Customer#000002315|maroon cornflower |1                 |
+|Customer#000002515|red bisque khaki f|1                 |
+|Customer#000002560|khaki orange seash|1                 |
+|Customer#000002774|chiffon chartreuse|1                 |
+|Customer#000003038|khaki orange seash|1                 |
+|Customer#000003248|red bisque khaki f|1                 |
+|Customer#000003355|honeydew pale brow|1                 |
+|Customer#000003550|black peach light |1                 |
+|Customer#000003650|misty lace goldenr|1                 |
+|Customer#000003671|frosted medium min|1                 |
+|Customer#000003854|peach cornsilk blu|1                 |
+|Customer#000003874|lemon saddle mediu|1                 |
+|Customer#000003889|lemon tomato antiq|1                 |
+|Customer#000004174|forest violet lave|1                 |
+|Customer#000004219|maroon cornflower |1                 |
+|Customer#000004327|deep antique burni|1                 |
+|Customer#000004328|cream purple pink |1                 |
+|Customer#000004390|floral thistle fro|1                 |
+|Customer#000004444|aquamarine goldenr|1                 |
+|Customer#000004471|peach midnight sie|1                 |
+|Customer#000004538|yellow ivory blanc|1                 |
+Found 1581 records in all.
+
+
+
+
